@@ -1,0 +1,37 @@
+{
+    "name": "VISA CREDITO_514377",
+    "appName": "VISA CREDITO",
+    "aid": "A0000000031010",
+    "pdol": null,
+    "cvmVisa": null,
+    "cvmMaster": null,
+    "script": [
+        {
+            "apdu": "00a404000e325041592e5359532e444446303100",
+            "response": "6F51840...."
+        },
+        {
+            "apdu": "00a4040007a000000003101000",
+            "response": "6F368407A0000000031010A52B500...."
+        },
+        {
+            "apdu": "80a8000002830000",
+            "response": "77519F2701809F360279D19...."
+        },
+        {
+            "apdu": "00b2011c00",
+            "response": "700E5A08.43...1"
+        },
+        {
+            "apdu": "00b2011400",
+            "response": "7081B39081B03C.."
+        },
+        {
+            "apdu": "00b2021400",
+        "response": "7081EB....."
+        }
+    ],
+    "country": "",
+    "ctq": "0000",
+    "iad": ""
+}

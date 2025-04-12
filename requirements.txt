@@ -1,0 +1,5 @@
+pyscard
+pyemv
+uttlv
+flask
+flask_cors
