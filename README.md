@@ -20,13 +20,17 @@ This repository contains a Python script for extracting and processing NFC card 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/leitor_script.git
+   git clone https://github.com/gusdnide/leitor_contactless.git
    cd leitor_script
    ```
 
 2. Install dependencies:
    ```bash
+<<<<<<< HEAD
    pip install -r requirements.txt
+=======
+   pip install -r requeriments
+>>>>>>> c7bd0445cbc5398a8e289344dfd4311da1e852a3
    ```
 
 ## Usage
