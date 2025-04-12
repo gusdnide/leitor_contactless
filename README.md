@@ -26,7 +26,7 @@ This repository contains a Python script for extracting and processing NFC card 
 
 2. Install dependencies:
    ```bash
-   pip install pyscard
+   pip install -r requirements.txt
    ```
 
 ## Usage
