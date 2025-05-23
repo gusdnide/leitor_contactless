@@ -26,11 +26,7 @@ This repository contains a Python script for extracting and processing NFC card 
 
 2. Install dependencies:
    ```bash
-<<<<<<< HEAD
    pip install -r requirements.txt
-=======
-   pip install -r requeriments
->>>>>>> c7bd0445cbc5398a8e289344dfd4311da1e852a3
    ```
 
 ## Usage
